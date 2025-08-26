@@ -49,10 +49,8 @@ This dataset is widely used for training **TTS (Text-to-Speech)** and **STT (Spe
 Below is a screenshot of the model’s evaluation results:
 
 <p align="center">
-  <img src="" alt="STT Results" width="600"/>
+  <img src="stt-results.png" alt="STT Results" width="600"/>
 </p>
-
-> *(Replace `results_screenshot.png` with your actual screenshot filename.)*
 
 ---
 
